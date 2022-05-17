@@ -1,0 +1,20 @@
+{
+  "name": "instaclone1",
+  "version": "1.0.0",
+  "description": "",
+  
+  "scripts": {
+    "dev": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kimwonjin/instaclone-backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kimwonjin/instaclone-backend/issues"
+  },
+  "homepage": "https://github.com/kimwonjin/instaclone-backend#readme"
+}
